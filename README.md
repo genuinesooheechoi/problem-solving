@@ -1,16 +1,24 @@
-# problem-solving
+# Problem Solving
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
+<p align="center">
+  <a href="https://solved.ac/sooheechoi">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sooheechoi" />
+  </a>
+</p>
 
-알고리즘 문제 풀이를 정리한 저장소입니다.  
-백준, 프로그래머스, SWEA 등의 문제를 꾸준히 풀이하고 기록합니다.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=genuinesooheechoi&theme=github-compact&hide_border=true"/>
+</p>
+
+<p align="center">
+  <i>Consistency beats talent.</i>
+</p>
 
 ---
 
-## 📁 Directory Structure
+## 📁 Structure
 
 ```bash
-problem-solving/
-├── 백준/
-├── 프로그래머스/
-└── SWEA/
+Baekjoon/
+Programmers/
+SWEA/
